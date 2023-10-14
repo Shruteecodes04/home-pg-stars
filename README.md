@@ -1,2 +1,2 @@
 # home-pg-stars
-stars 
+personal portfolio home page having dynamic stars background, it looks starry :)
