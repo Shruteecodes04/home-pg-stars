@@ -1,0 +1,82 @@
+.logo img{
+
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    padding-inline-start: 280px;
+}
+body {
+    background-image: url('ek.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    text-align: center;
+}
+li{
+    color: beige;
+    display: inline;
+    padding: -6px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+
+}
+.nav a{
+    display: inline-block;
+    width: 105px;
+    padding: 30px 2px;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+
+.detel h1{
+    margin-left: 13%;
+    margin-top:5% ;
+    font-weight: 90px;
+    font-size: 82px;
+    margin-bottom: 34%;
+    font-family: monospace;
+    text-shadow: 0 0 10px rgb(128, 69, 79);
+}
+.my img{
+    height: 600px;
+    width: 555px;
+    margin-top:-100px;
+    position: absolute;
+    margin-left: 30%;
+   
+}
+
+.info{
+    color: azure;
+    margin-left: 65%;
+    margin-top: -38%;
+    font-weight: 10px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+ 
+
+
+
+
+    
+    
+
+
+
+a:active,a:hover {
+    color: #f11c1c;
+}
